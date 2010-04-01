@@ -14,7 +14,14 @@ Hi and thanks for visiting this page!
 
 ===To Do===
 {{{
-lots of things
+- create installer
+- built in scrolling with mouse
+- more options
+}}}
+
+===Known Bugs===
+{{{
+- Sometimes the scripts gives a 404 error when there is a .nfo file (just right click and choose update .nfo to fix) 
 }}}
 
 ===Change Log===
