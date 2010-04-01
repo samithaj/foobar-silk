@@ -23,6 +23,7 @@ for a preview visit: http://matthijsb.deviantart.com/art/nfoo-Viewer-1-0b-159150
 
 ===To Do===
 {{{
+- scan for txt logs
 - create installer
 - built in scrolling with mouse
 - more options
