@@ -5,8 +5,6 @@
 Hi and thanks for visiting this page!
 
 .nfoo Viewer is a project by Fuzzy & Silk.
-
-[http://matthijsb.deviantart.com/art/nfoo-Viewer-1-0b-159150878 http://fc01.deviantart.net/fs71/i/2010/091/2/7/_nfoo_Viewer_1_0b_by_MatthijsB.png]
 ----
 
 ===Release Log===
