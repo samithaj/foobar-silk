@@ -20,6 +20,7 @@ http://th01.deviantart.net/fs71/300W/i/2010/091/2/7/_nfoo_Viewer_1_0b_by_Matthij
 
 ===Release Log===
 {{{
+[2010-04-01] 1.0b    | http://foobar-silk.googlecode.com/files/nfoo_viewer 1.0b.1.zip
 [2010-04-01] 1.0b    | http://foobar-silk.googlecode.com/files/nfoo_viewer 1.0b.zip
 }}}
 
@@ -38,5 +39,6 @@ http://th01.deviantart.net/fs71/300W/i/2010/091/2/7/_nfoo_Viewer_1_0b_by_Matthij
 
 ===Change Log===
 {{{
+[2010-04-01] 1.0b.1  | fix: img path was wrong
 [2010-04-01] 1.0b    | firs beta yay!
 }}}
