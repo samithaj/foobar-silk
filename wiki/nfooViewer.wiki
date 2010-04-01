@@ -1,10 +1,18 @@
-#summary .nfoo Viewer
+#summary .nfoo Viewer 1.0b
 #labels Featured
 
-=.nfoo Viewer=
+---
+Hi and thanks for visiting this page!
+.nfoo Viewer is a project by Fuzzy & Silk.
+We built a .nfo viewer for the WSH-panel mod (http://www.hydrogenaudio.org/forums/index.php?showtopic=70363)
+---
 
-== Details ==
-`inline code`
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+===Release Log===
+{{{
+}}}
+===To Do===
+{{{
+}}}
+===Change Log===
+{{{
+}}}
