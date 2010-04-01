@@ -7,6 +7,13 @@ Hi and thanks for visiting this page!
 .nfoo Viewer is a project by Fuzzy & Silk.
 ----
 
+===Features===
+{{{
+- Viewing your .nfo files directly in foobar
+- Choose 5 different text colors
+- You can scroll trough your .nfo with the scroll wheel
+}}}
+
 ===Release Log===
 {{{
 [2010-04-01] 1.0b    | http://foobar-silk.googlecode.com/files/nfoo_viewer 1.0b.zip
