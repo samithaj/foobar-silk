@@ -28,7 +28,7 @@ http://th01.deviantart.net/fs71/300W/i/2010/091/2/7/_nfoo_Viewer_1_0b_by_Matthij
 - scan for txt logs
 - create installer
 - built in scrolling with mouse
-- more options
+- more options (background color for example)
 }}}
 
 ===Known Bugs===
