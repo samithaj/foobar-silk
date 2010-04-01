@@ -11,7 +11,7 @@ Hi and thanks for visiting this page!
 
 ===Release Log===
 {{{
-[2010-04-01] 1.0b    | http://matthijsb.deviantart.com/art/nfoo-Viewer-1-0b-159150878
+[2010-04-01] 1.0b    | http://foobar-silk.googlecode.com/files/nfoo_viewer 1.0b.zip
 }}}
 
 ===To Do===
