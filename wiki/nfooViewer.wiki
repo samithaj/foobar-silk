@@ -20,6 +20,7 @@ http://th01.deviantart.net/fs71/300W/i/2010/091/2/7/_nfoo_Viewer_1_0b_by_Matthij
 
 ===Release Log===
 {{{
+[2010-04-02] 1.0     | TBA
 [2010-04-01] 1.0b.1  | http://foobar-silk.googlecode.com/files/nfoo_viewer 1.0b.1.zip
 [2010-04-01] 1.0b    | http://foobar-silk.googlecode.com/files/nfoo_viewer 1.0b.zip
 }}}
@@ -28,17 +29,21 @@ http://th01.deviantart.net/fs71/300W/i/2010/091/2/7/_nfoo_Viewer_1_0b_by_Matthij
 {{{
 - scan for txt logs
 - create installer
-- built in scrolling with mouse
+- built in scrolling with mouse click
+- smoother scrolling
 - more options (background color for example)
 }}}
 
 ===Known Bugs===
 {{{
-- Sometimes the scripts gives a 404 error when there is a .nfo file (just right click and choose update .nfo to fix) 
 }}}
 
 ===Change Log===
 {{{
+[2010-04-02] 1.0     | fix: complete new way to read .nfo file (tnx to m0viefreak)
+                     | add: background color option
+                     | add: new font to support ASCII
+                     | ...
 [2010-04-01] 1.0b.1  | fix: img path was wrong
 [2010-04-01] 1.0b    | firs beta yay!
 }}}
