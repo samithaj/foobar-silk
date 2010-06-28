@@ -1,6 +1,6 @@
 #summary Releases, Changelog, Known bugs & ToDo/Ideas
 
-= foo_silk-lastfm =
+= foo_silk lastfm =
 
 ==== Releases ====
 {{{
@@ -20,9 +20,9 @@
                                       | change: slightly increased line spacing between top artist stats
                                       | change: re-sized and replaced the top artist stats bars a little bit
                                       | fix: improved code structure/use of resources
-[2010-06-10] foo_silk-lastfm 1.0.a2   | fix: new way of getting and processing stats which gives a huge speed improvement
+[2010-06-10] foo_silk lastfm 1.0.a2   | fix: new way of getting and processing stats which gives a huge speed improvement
                                       | note: first launch bug is still there (to fix click configure and ok)
-[2010-06-10] foo_silk-lastfm 1.0.a1   | fix: lots of bug fixes and speed improvements
+[2010-06-10] foo_silk lastfm 1.0.a1   | fix: lots of bug fixes and speed improvements
 }}}
 ==== Known bugs ====
 {{{
