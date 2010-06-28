@@ -3,4 +3,14 @@
 = foo_silk-lastfm =
 
 ==== Releases ====
+{{{
+}}}
 ==== Changelog ====
+{{{
+}}}
+==== Known bugs ====
+{{{
+}}}
+==== ToDo/Ideas =====
+{{{
+}}}
