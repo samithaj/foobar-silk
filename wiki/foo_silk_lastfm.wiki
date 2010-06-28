@@ -10,8 +10,8 @@
 {{{
 [TBA] foo_silk lastfm 1.0.b1          | add: created 3-dimensional data array for all stats
                                       | fix: improved getting/processing stats
-                                      | fix: when manually updating wait status is cleared to prevent unprocessed data to skip again
-                                      | change: file locations/script data
+                                      | change: location of script data/files
+[2010-06-25] foo_silk lastfm 1.0.a4   | fix: when manually updating wait status is cleared to prevent unprocessed data to skip again
                                       | change: interface/layout
 [2010-06-14] foo_silk lastfm 1.0.a3   | fix: major bug fix where text was not showing up on first launch
                                       | fix: improved getting/processing stats behavior 
