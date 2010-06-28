@@ -4,12 +4,29 @@
 
 ==== Releases ====
 {{{
+[2010-07-XX] foo_silk lastfm 1.0      | first public release
 }}}
 ==== Changelog ====
 {{{
+[TBA] foo_silk lastfm 1.0.b1          | add: created 3-dimensional data array for all stats
+                                      | fix: improved getting/processing stats
+                                      | fix: when manually updating wait status are cleared to prevent unprocessed data to skip again
+                                      | change: file locations/script data
+[2010-06-14] foo_silk lastfm 1.0.a3   | fix: major bug fix where text was not showing up on first launch
+                                      | fix: improved getting/processing stats behavior 
+                                      | fix: top artists names with "&" are now shown correctly
+                                      | fix: now playing artist and track names with "&" are now shown correctly
+                                      | add: options (in code) for top artist stats
+                                      | change: slightly increased line spacing between top artist stats
+                                      | change: re-sized and replaced the top artist stats bars a little bit
+                                      | fix: improved code structure/use of resources
+[2010-06-10] foo_silk-lastfm 1.0.a2   | fix: new way of getting and processing stats which gives a huge speed improvement
+                                      | note: first launch bug is still there (to fix click configure and ok)
+[2010-06-10] foo_silk-lastfm 1.0.a1   | fix: lots of bug fixes and speed improvements
 }}}
 ==== Known bugs ====
 {{{
+
 }}}
 ==== ToDo/Ideas =====
 {{{
