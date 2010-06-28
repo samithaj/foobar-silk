@@ -9,6 +9,7 @@
 ==== Changelog ====
 {{{
 [TBA] foo_silk lastfm 1.0.b1          | add: created 3-dimensional data array for all stats
+                                      | fix: improved paint code
                                       | fix: improved getting/processing stats
                                       | change: location of script data/files
 [2010-06-25] foo_silk lastfm 1.0.a4   | fix: when manually updating wait status is cleared to prevent unprocessed data to skip again
