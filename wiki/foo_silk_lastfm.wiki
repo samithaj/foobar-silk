@@ -1,4 +1,4 @@
-# Releases, Changelog, Known bugs & ToDo/Ideas
+# Releases, Changelog, Known bugs, ToDo & Ideas
 = foo_silk-lastfm =
 
 ==== Releases ====
