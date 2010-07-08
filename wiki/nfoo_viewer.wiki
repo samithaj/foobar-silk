@@ -1,31 +1,33 @@
 #summary Releases, Changelog, Known bugs & ToDo/Ideas
 
-= foo_silk 4 =
+= .nfoo Viewer =
 
 ==== Releases ====
 {{{
-[2010-XX-XX] foo_silk 4.0             | final
-[2010-07-07] foo_silk 4.0.b4          | public beta
-[2010-06-10] foo_silk 4.0.b4.a1       | closed pre-beta
-[2010-03-22] foo_silk 4.0.b3          | http://matthijsb.deviantart.com/art/foo-silk-4-0-beta-3-156740820
-[2010-03-11] foo_silk 4.0.b2          | not available
-[2010-03-09] foo_silk 4.0.b1          | not available
+[2010-07-07] .nfoo viewer 1.1         | included in foo_silk 4.0.b4
+[2010-04-02] .nfoo viewer 1.0.1       | http://foobar-silk.googlecode.com/files/nfoo_viewer%201.0.1--script.txt
+[2010-04-01] .nfoo viewer 1.0         | http://matthijsb.deviantart.com/art/nfoo-Viewer-1-0-159254603
+[2010-04-01] .nfoo viewer 1.0b        | http://matthijsb.deviantart.com/art/nfoo-Viewer-1-0b-159150878
 }}}
 ==== Changelog ====
 {{{
-[2010-07-07] foo_silk 4.0.b4          | add: foo_silk-lastfm 1.0.b1
-                                      | fix: when you are not connected to the internet played/unplayed status is now updating
-                                      | fix: long artist & track titles are now cut off instead of overlapping the playing time in the seekbar
-                                      | change: updated the volume seekbar
-                                      | change: main color is now red
-                                      | change: updated .nfoo viewer to 1.1
-[2010-06-10] foo_silk 4.0.b4.a1       | new: started from scratch again!
+[2010-07-07] .nfoo viewer 1.1         | fix: after changing manually updating the file is completely loaded
+                                      | change: if found, all nfo/txt/log files are loaded
+                                      | remove: removed unused lines of code
+[2010-04-02] .nfoo viewer 1.0.1       | add: support for CUI   
+[2010-04-02] .nfoo viewer 1.0         | fix: new way to get & read files
+                                      | add: support for .txt and .log
+                                      | add: support for ascii art
+                                      | add: option for backgroundcolor
+                                      | add: option to use foobarcolors for text/background color
+                                      | remove: removed images and top information
+                                      | remove: script no longer need other js files
+[2010-04-01] .nfoo viewer 1.0b.1      | fix: img path was wrong
+[2010-04-01] .nfoo viewer 1.0b        | first beta
 }}}
 ==== Known bugs ====
 {{{
 }}}
 ==== ToDo/Ideas =====
 {{{
-+ resize buttons
-+ color schemes via menu/option
 }}}
