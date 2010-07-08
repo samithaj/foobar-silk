@@ -1,13 +1,31 @@
-#summary One-sentence summary of this page.
+#summary Releases, Changelog, Known bugs & ToDo/Ideas
 
-= Introduction =
+= foo_silk 4 =
 
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+==== Releases ====
+{{{
+[2010-XX-XX] foo_silk 4.0             | final
+[2010-07-07] foo_silk 4.0.b4          | public beta
+[2010-06-10] foo_silk 4.0.b4.a1       | closed pre-beta
+[2010-03-22] foo_silk 4.0.b3          | http://matthijsb.deviantart.com/art/foo-silk-4-0-beta-3-156740820
+[2010-03-11] foo_silk 4.0.b2          | not available
+[2010-03-09] foo_silk 4.0.b1          | not available
+}}}
+==== Changelog ====
+{{{
+[2010-07-07] foo_silk 4.0.b4          | add: foo_silk-lastfm 1.0.b1
+                                      | fix: when you are not connected to the internet played/unplayed status is now updating
+                                      | fix: long artist & track titles are now cut off instead of overlapping the playing time in the seekbar
+                                      | change: updated the volume seekbar
+                                      | change: main color is now red
+                                      | change: updated .nfoo viewer to 1.1
+[2010-06-10] foo_silk 4.0.b4.a1       | new: started from scratch again!
+}}}
+==== Known bugs ====
+{{{
+}}}
+==== ToDo/Ideas =====
+{{{
++ resize buttons
++ color schemes via menu/option
+}}}
