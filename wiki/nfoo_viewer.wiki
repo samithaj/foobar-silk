@@ -11,7 +11,7 @@
 }}}
 ==== Changelog ====
 {{{
-[2010-07-07] .nfoo viewer 1.1         | fix: after changing manually updating the file is completely loaded
+[2010-07-07] .nfoo viewer 1.1         | fix: after manually updating the file is completely loaded
                                       | change: if found, all nfo/txt/log files are loaded
                                       | remove: removed unused lines of code
 [2010-04-02] .nfoo viewer 1.0.1       | add: support for CUI   
