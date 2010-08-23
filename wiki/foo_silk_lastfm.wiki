@@ -11,7 +11,7 @@
 [2010-08-XX] foo_silk lastfm 1.1.a1   | add: options trough menu
                                       | add: top albums data
                                       | add: option for links (to lastfm pages)
-[2010-08-XX] foo_silk lastfm 1.0      | add: avatar can now be downloaded
+[2010-08-23] foo_silk lastfm 1.0      | add: avatar can now be downloaded
                                       | fix: overlapping of per day/week/month text
                                       | fix: little bug when script was initialized while foobar was not playing any music
 [2010-07-07] foo_silk lastfm 1.0.b1   | add: created 3-dimensional data array for all stats
