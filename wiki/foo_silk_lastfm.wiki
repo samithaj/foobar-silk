@@ -8,9 +8,10 @@
 }}}
 ==== Changelog ====
 {{{
-[2010-08-XX] foo_silk lastfm 1.1.a1   | add: options trough menu
+[2010-08-XX] foo_silk lastfm 1.1.a1   | !add: options trough menu
                                       | add: top albums data
-                                      | add: option for links (to lastfm pages)
+                                      | !add: option for links (to lastfm pages)
+                                      | !fix: moved all files to foobar data folder
 [2010-08-23] foo_silk lastfm 1.0      | add: avatar can now be downloaded
                                       | fix: overlapping of per day/week/month text
                                       | fix: little bug when script was initialized while foobar was not playing any music
