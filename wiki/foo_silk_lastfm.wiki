@@ -4,15 +4,17 @@
 
 ==== Releases ====
 {{{
-[2010-07-XX] foo_silk lastfm 1.0      | first public release
+[2010-XX-XX] foo_silk lastfm 2.0      | developing started [2010-08-24] i have some great ideas!
+[2010-09-01] foo_silk lastfm 1.0      | first public release
 }}}
 ==== Changelog ====
 {{{
-[2010-08-XX] foo_silk lastfm 1.1.a1   | !add: options trough menu
+[2010-XX-XX] foo_silk lastfm 2.0      | !add: tabs
+[2010-XX-XX] foo_silk lastfm 1.1      | !add: options trough menu
                                       | add: top albums data
                                       | !add: option for links (to lastfm pages)
                                       | !fix: moved all files to foobar data folder
-[2010-08-XX] foo_silk lastfm 1.0      | add: avatars can now be downloaded
+[2010-09-01] foo_silk lastfm 1.0      | add: avatars can now be downloaded
                                       | fix: overlapping of per day/week/month text
                                       | fix: little bug when script was initialized while foobar was not playing any music
 [2010-07-07] foo_silk lastfm 1.0.b1   | add: created 3-dimensional data array for all stats
