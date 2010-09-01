@@ -5,7 +5,7 @@
 ==== Releases ====
 {{{
 [2010-XX-XX] foo_silk lastfm 2.0      | developing started [2010-08-24] i have some great ideas!
-[2010-09-01] foo_silk lastfm 1.0      | first public release
+[2010-09-01] foo_silk lastfm 1.0      | http://matthijsb.deviantart.com/art/foo-silk-lastfm-1-0-177652017
 }}}
 ==== Changelog ====
 {{{
