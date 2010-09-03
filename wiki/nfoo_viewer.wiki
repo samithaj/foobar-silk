@@ -4,7 +4,7 @@
 
 ==== Releases ====
 {{{
-[2010-07-07] .nfoo viewer 1.1         | included in foo_silk 4.0.b4
+[2010-07-07] .nfoo viewer 1.1         | http://matthijsb.deviantart.com/art/nfoo-Viewer-1-1-170638369
 [2010-04-02] .nfoo viewer 1.0.1       | http://foobar-silk.googlecode.com/files/nfoo_viewer%201.0.1--script.txt
 [2010-04-01] .nfoo viewer 1.0         | http://matthijsb.deviantart.com/art/nfoo-Viewer-1-0-159254603
 [2010-04-01] .nfoo viewer 1.0b        | http://matthijsb.deviantart.com/art/nfoo-Viewer-1-0b-159150878
