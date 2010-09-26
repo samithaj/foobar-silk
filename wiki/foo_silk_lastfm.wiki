@@ -18,7 +18,7 @@
                                       | !!!add: scrolling trough charts/data
                                       | !!add: download art
                                       | !!!!add: styles
-                                      | add: settings are now stored
+                                      | add: settings are now stored in a file
                                       | !!fix: timeout to fix api returns error 6
 [2010-09-01] foo_silk lastfm 1.0      | add: avatars can now be downloaded
                                       | fix: overlapping of per day/week/month text
