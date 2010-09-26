@@ -4,15 +4,20 @@
 
 ==== Releases ====
 {{{
-[2010-XX-XX] foo_silk lastfm 2.0      | developing started [2010-08-24] i have some great ideas!
+[2010-XX-XX] foo_silk lastfm 2.0      | TBA
 [2010-09-01] foo_silk lastfm 1.0      | http://matthijsb.deviantart.com/art/foo-silk-lastfm-1-0-177652017
 }}}
-==== Changelog ====
+==== Changelog / !ToDo ====
 {{{
 [2010-XX-XX] foo_silk lastfm 2.0      | !add: tabs
-[2010-XX-XX] foo_silk lastfm 1.1      | !add: options trough menu
-                                      | add: top albums data
+                                      | !add: options trough menu
+                                      | !add: top albums data
                                       | !add: option for links (to lastfm pages)
+                                      | !add: scrolling trough charts/data
+                                      | !add: download art
+                                      | !add: 
+                                      | add: settings are now stored
+                                      | !fix: timeout to fix api returns error 6
 [2010-09-01] foo_silk lastfm 1.0      | add: avatars can now be downloaded
                                       | fix: overlapping of per day/week/month text
                                       | fix: little bug when script was initialized while foobar was not playing any music
@@ -38,7 +43,4 @@
 ==== Known bugs ====
 {{{
 
-}}}
-==== ToDo/Ideas =====
-{{{
 }}}
