@@ -9,7 +9,7 @@
 }}}
 ==== Changelog / ToDo ====
 {{{
-(!-Must !!-Should !!!-Could !!!!-Would)
+[!-Must] [!!-Should] [!!!-Could] [!!!!-Would]
 
 [2010-XX-XX] foo_silk lastfm 2.0      | !add: tabs
                                       | !add: options trough menu
