@@ -21,6 +21,7 @@
                                       | add: settings are now stored in a file
 [2010-10-XX] foo_silk lastfm 1.1      | add: scrolling trough top artist data
                                       | fix: 'grabbing stats' hang when the lastfm api returned an error (error in console)
+                                      | change: changed the menu a little bit
 [2010-09-01] foo_silk lastfm 1.0      | add: avatars can now be downloaded
                                       | fix: overlapping of per day/week/month text
                                       | fix: little bug when script was initialized while foobar was not playing any music
