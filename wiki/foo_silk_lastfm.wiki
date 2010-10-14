@@ -20,6 +20,7 @@
                                       | !!!!add: styles
                                       | add: settings are now stored in a file
                                       | !!fix: timeout to fix api returns error 6
+[2010-10-14] foo_silk lastfm 1.1      | fix: api errors causing the window to 'hang' are now printed in the console
 [2010-09-01] foo_silk lastfm 1.0      | add: avatars can now be downloaded
                                       | fix: overlapping of per day/week/month text
                                       | fix: little bug when script was initialized while foobar was not playing any music
