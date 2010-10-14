@@ -15,9 +15,9 @@
                                       | !add: options trough menu
                                       | !add: top albums data
                                       | !add: option for links (to lastfm pages)
-                                      | !!!add: scrolling trough charts/data
+                                      | !add: scrolling trough charts/data
                                       | !!add: download art
-                                      | !!!!add: styles
+                                      | !!!add: styles
                                       | add: settings are now stored in a file
 [2010-10-XX] foo_silk lastfm 1.1      | add: scrolling trough top artist data
                                       | fix: 'grabbing stats' hang when the lastfm api returned an error (error in console)
