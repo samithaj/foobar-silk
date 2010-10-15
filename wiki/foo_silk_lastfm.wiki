@@ -5,7 +5,7 @@
 ==== Releases ====
 {{{
 [2010-XX-XX] foo_silk lastfm 2.0      | TBA
-[2010-10-05] foo_silk lastfm 1.1      | ...
+[2010-10-05] foo_silk lastfm 1.1      | http://matthijsb.deviantart.com/art/foo-silk-lastfm-1-1-182757466
 [2010-09-01] foo_silk lastfm 1.0      | http://matthijsb.deviantart.com/art/foo-silk-lastfm-1-0-177652017
 }}}
 ==== Changelog / ToDo ====
