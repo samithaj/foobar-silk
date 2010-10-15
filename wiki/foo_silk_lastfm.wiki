@@ -5,6 +5,7 @@
 ==== Releases ====
 {{{
 [2010-XX-XX] foo_silk lastfm 2.0      | TBA
+[2010-10-05] foo_silk lastfm 1.1      | ...
 [2010-09-01] foo_silk lastfm 1.0      | http://matthijsb.deviantart.com/art/foo-silk-lastfm-1-0-177652017
 }}}
 ==== Changelog / ToDo ====
@@ -19,7 +20,7 @@
                                       | !!add: download art
                                       | !!!add: styles
                                       | add: settings are now stored in a file
-[2010-10-XX] foo_silk lastfm 1.1      | add: scrolling trough top artist data
+[2010-10-15] foo_silk lastfm 1.1      | add: scrolling trough top artist data
                                       | add: option to enable/disable the scrolling with the scrollwheel
                                       | add: option in menu to enable/disable the mouse over menu
                                       | fix: 'grabbing stats' hang when the lastfm api returned an error (error in console)
