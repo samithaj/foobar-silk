@@ -13,7 +13,6 @@
 * TODO
 
 [2010-XX-XX] foo_silk lastfm 2.0      | add: settings are now stored in a file
-                                      | add: built-in update checker
                                       | *add: tabs
                                       | *add: options trough menu
                                       | *add: top albums data
@@ -21,6 +20,8 @@
                                       | *add: scrolling trough charts/data
                                       | *add: download art
                                       | *add: styles
+[2010-10-XX] foo_silk lastfm 1.2      | add: built-in update checker
+                                      | *add: horizontal scrolling trough charts
 [2010-10-15] foo_silk lastfm 1.1      | add: scrolling trough top artist data
                                       | add: option to enable/disable the scrolling with the scrollwheel
                                       | add: option in menu to enable/disable the mouse over menu
