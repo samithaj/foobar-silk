@@ -10,16 +10,17 @@
 }}}
 ==== Changelog / ToDo ====
 {{{
-[!-Must] [!!-Should] [!!!-Could] [!!!!-Would]
+* TODO
 
-[2010-XX-XX] foo_silk lastfm 2.0      | !add: tabs
-                                      | !add: options trough menu
-                                      | !add: top albums data
-                                      | !add: option for links (to lastfm pages)
-                                      | !add: scrolling trough charts/data
-                                      | !!add: download art
-                                      | !!!add: styles
-                                      | add: settings are now stored in a file
+[2010-XX-XX] foo_silk lastfm 2.0      | add: settings are now stored in a file
+                                      | add: build in update checker
+                                      | *add: tabs
+                                      | *add: options trough menu
+                                      | *add: top albums data
+                                      | *add: option for links (to lastfm pages)
+                                      | *add: scrolling trough charts/data
+                                      | *add: download art
+                                      | *add: styles
 [2010-10-15] foo_silk lastfm 1.1      | add: scrolling trough top artist data
                                       | add: option to enable/disable the scrolling with the scrollwheel
                                       | add: option in menu to enable/disable the mouse over menu
