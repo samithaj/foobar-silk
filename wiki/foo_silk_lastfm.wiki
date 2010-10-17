@@ -21,7 +21,7 @@
                                       | *add: download art
                                       | *add: styles
 [2010-10-XX] foo_silk lastfm 1.2      | add: built-in update checker
-                                      | *add: horizontal scrolling trough charts
+                                      | *add: options to customize what's displayed
 [2010-10-15] foo_silk lastfm 1.1      | add: scrolling trough top artist data
                                       | add: option to enable/disable the scrolling with the scrollwheel
                                       | add: option in menu to enable/disable the mouse over menu
