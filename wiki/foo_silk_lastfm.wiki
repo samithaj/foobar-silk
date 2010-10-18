@@ -22,6 +22,7 @@
                                       | *add: styles
 [2010-10-XX] foo_silk lastfm 1.2      | add: built-in update checker
                                       | *add: options to customize what is displayed
+                                      | fix: window was repainted on mouse over, when menu was disabled
 [2010-10-15] foo_silk lastfm 1.1      | add: scrolling trough top artist data
                                       | add: option to enable/disable the scrolling with the scrollwheel
                                       | add: option in menu to enable/disable the mouse over menu
