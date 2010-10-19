@@ -20,6 +20,7 @@
                                       | *add: scrolling trough charts/data
                                       | *add: download art
                                       | *add: styles
+                                      | *add: automatic updater
 [2010-10-XX] foo_silk lastfm 1.2      | add: built-in update checker
                                       | *add: options to customize what is displayed
                                       | *add: links to lastfm pages
