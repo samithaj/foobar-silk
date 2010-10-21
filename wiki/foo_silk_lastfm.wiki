@@ -26,6 +26,7 @@
                                       | *add: links to lastfm pages
                                       | fix: window was repainted on mouse over, when menu was disabled
                                       | fix: saving data error caused by missing settings folder is now fixed
+                                      | fix: smoother scrolling trough top artists charts
 [2010-10-15] foo_silk lastfm 1.1      | add: scrolling trough top artist data
                                       | add: option to enable/disable the scrolling with the scrollwheel
                                       | add: option in menu to enable/disable the mouse over menu
