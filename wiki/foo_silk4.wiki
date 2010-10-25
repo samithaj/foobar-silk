@@ -32,8 +32,3 @@
 ==== Known bugs ====
 {{{
 }}}
-==== ToDo/Ideas =====
-{{{
-+ resize buttons
-+ color schemes via menu/option
-}}}
