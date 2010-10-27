@@ -1,4 +1,4 @@
-#summary AlbumArt script with built-in AlbumArtDownloader (part of foo_silk 4)
+#summary AlbumArt script with built-in AlbumArtDownloader (incl. in foo_silk 4)
 
 = Introduction =
 
