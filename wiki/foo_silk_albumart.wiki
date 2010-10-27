@@ -4,11 +4,11 @@
 
 ==== Releases ====
 {{{
-[2010-XX-XX] foo_silk albumart 0.1    | TBA
+[2010-XX-XX] foo_silk albumart 1.0    | TBA
 }}}
 ==== Changelog / ToDo ====
 {{{
 * TODO
 
-[2010-XX-XX] foo_silk albumart 0.1    | add: AlbumArtDownloader integration
+[2010-XX-XX] foo_silk albumart 1.0    | add: AlbumArtDownloader integration
 }}}
