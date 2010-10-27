@@ -1,4 +1,4 @@
-#summary Releases, Changelog, Known bugs & ToDo/Ideas
+#summary Displays nfo/txt/log files in your foobar (incl. in foo_silk 4)
 
 = .nfoo Viewer =
 
