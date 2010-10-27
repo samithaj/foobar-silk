@@ -1,4 +1,4 @@
-#summary Releases, Changelog, Known bugs & ToDo/Ideas
+#summary Simple foobar theme with lastfm integration
 
 = foo_silk 4 =
 
