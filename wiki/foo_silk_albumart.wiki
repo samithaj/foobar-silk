@@ -1,0 +1,14 @@
+#summary AlbumArt script with built-in AlbumArtDownloader (incl. in foo_silk 4)
+
+= foo_silk albumart =
+
+==== Releases ====
+{{{
+[2010-XX-XX] foo_silk albumart 0.1    | TBA
+}}}
+==== Changelog / ToDo ====
+{{{
+* TODO
+
+[2010-XX-XX] foo_silk albumart 0.1    | add: AlbumArtDownloader integration
+}}}
