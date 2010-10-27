@@ -1,13 +1,14 @@
 #summary AlbumArt script with built-in AlbumArtDownloader (incl. in foo_silk 4)
 
-= Introduction =
+= foo_silk art =
 
-Add your content here.
+==== Releases ====
+{{{
+[2010-XX-XX] foo_silk art 0.1         | TBA
+}}}
+==== Changelog / ToDo ====
+{{{
+* TODO
 
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+[2010-XX-XX] foo_silk art 0.1         | add: AlbumArtDownloader integration
+}}}
