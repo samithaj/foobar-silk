@@ -11,4 +11,5 @@
 * TODO
 
 [2010-XX-XX] foo_silk albumart 1.0    | add: AlbumArtDownloader integration
+                                      | add: Automatically grab album art
 }}}
