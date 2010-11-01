@@ -24,7 +24,7 @@
 [2010-10-XX] foo_silk lastfm 1.2      | add: built-in update checker
                                       | *add: options to customize what is displayed
                                       | *add: links to lastfm pages
-                                      | change: scrolling charts behaviour
+                                      | change: scrolling charts behavior
                                       | fix: window was repainted on mouse over, when menu was disabled
                                       | fix: saving data error caused by missing settings folder is now fixed
                                       | fix: smoother scrolling trough top artists charts
