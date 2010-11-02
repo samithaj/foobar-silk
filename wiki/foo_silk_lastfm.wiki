@@ -15,23 +15,23 @@
 
 [2010-XX-XX] foo_silk lastfm 2.0      | add: settings are now stored in a file
                                       | *add: tabs
-                                      | *add: options trough menu
+                                      | *add: options through menu
                                       | *add: top albums data
-                                      | *add: scrolling trough charts/data
-                                      | *add: download art
+                                      | *add: scrolling through charts/data
                                       | *add: styles
                                       | *add: automatic updater
                                       | *add: options to customize what is displayed
                                       | *add: links to lastfm pages
+[2010-11-XX] foo_silk lastfm 1.3      | *add: scrolling horizontal through charts
 [2010-11-XX] foo_silk lastfm 1.2      | add: built-in update checker
-                                      | add: scrolling trough individual charts
-                                      | add: enable/disable scrolling menu item
+                                      | add: scrolling through individual charts
+                                      | change: moved enable/disable scrolling to menu
                                       | change: scrolling charts behavior (width of bars are in perspective to the plays of the number one in the chart)
                                       | change: removed mouse over menu
                                       | fix: saving data error caused by missing settings folder is now fixed
-                                      | fix: smoother scrolling trough top artists charts
-[2010-10-15] foo_silk lastfm 1.1      | add: scrolling trough top artist data
-                                      | add: option to enable/disable the scrolling with the scrollwheel
+                                      | fix: smoother scrolling through top artists charts
+[2010-10-15] foo_silk lastfm 1.1      | add: scrolling through top artist data
+                                      | add: option to enable/disable the scrolling with the scrollwheel in mouse over menu
                                       | add: option in menu to enable/disable the mouse over menu
                                       | fix: 'grabbing stats' hang when the lastfm api returned an error (error in console)
 [2010-09-01] foo_silk lastfm 1.0      | add: avatars can now be downloaded
