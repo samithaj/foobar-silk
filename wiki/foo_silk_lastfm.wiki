@@ -21,11 +21,13 @@
                                       | *add: download art
                                       | *add: styles
                                       | *add: automatic updater
-[2010-11-XX] foo_silk lastfm 1.2      | add: built-in update checker
                                       | *add: options to customize what is displayed
                                       | *add: links to lastfm pages
-                                      | change: scrolling charts behavior
-                                      | fix: window was repainted on mouse over, when menu was disabled
+[2010-11-XX] foo_silk lastfm 1.2      | add: built-in update checker
+                                      | add: scrolling trough individual charts
+                                      | add: enable/disable scrolling menu item
+                                      | change: scrolling charts behavior (width of bars are in perspective to the plays of the number one in the chart)
+                                      | change: removed mouse over menu
                                       | fix: saving data error caused by missing settings folder is now fixed
                                       | fix: smoother scrolling trough top artists charts
 [2010-10-15] foo_silk lastfm 1.1      | add: scrolling trough top artist data
