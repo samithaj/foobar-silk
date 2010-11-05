@@ -4,6 +4,7 @@
 
 ==== Releases ====
 {{{
+[2010-11-05] .nfoo viewer 1.2
 [2010-07-07] .nfoo viewer 1.1
 [2010-04-02] .nfoo viewer 1.0.1
 [2010-04-01] .nfoo viewer 1.0
@@ -11,6 +12,10 @@
 }}}
 ==== Changelog ====
 {{{
+[2010-11-05] .nfoo viewer 1.2         | add: built-in update checker
+                                      | change: smoother scrolling
+                                      | change: focus behavior
+                                      | fix: performance improvements
 [2010-07-07] .nfoo viewer 1.1         | fix: after manually updating the file is completely loaded
                                       | change: if found, all nfo/txt/log files are loaded
                                       | remove: removed unused lines of code
