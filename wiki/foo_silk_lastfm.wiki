@@ -25,6 +25,7 @@
 [2010-11-XX] foo_silk lastfm 1.3      | *add: scrolling horizontal through charts
 [2010-11-XX] foo_silk lastfm 1.2      | add: built-in update checker
                                       | add: scrolling through individual charts
+                                      | add: minimize option through menu
                                       | change: moved enable/disable scrolling to menu
                                       | change: scrolling charts behavior (width of bars are in perspective to the plays of the number one in the chart)
                                       | change: removed mouse over menu
