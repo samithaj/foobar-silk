@@ -1,4 +1,4 @@
-#summary Simple foobar theme with lastfm integration
+#summary Simple foobar theme with lastfm integration / automatic albumart downloading / artist art / nfoo viewer
 
 = foo_silk 4 =
 
@@ -16,6 +16,7 @@
 * ToDo
 
 [2010-11-05] foo_silk 4.0             | add: playlist manager tab
+                                      | add: settings/about tab with built-in update checker
                                       | update: .nfoo viewer 1.2
                                       | update: foo_silk-lastfm 1.2
                                       | update: foo_silk-albumart 1.0
