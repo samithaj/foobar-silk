@@ -4,7 +4,7 @@
 
 ==== Releases ====
 {{{
-[2010-11-06] foo_silk 4.0             | final
+[2010-11-06] foo_silk 4.0             | http://matthijsb.deviantart.com/art/foo-silk-4-0-185248870
 [2010-07-07] foo_silk 4.0.b4          | http://matthijsb.deviantart.com/art/foo-silk-4-0-beta-4-170546750
 [2010-06-10] foo_silk 4.0.b4.a1       | closed pre-beta
 [2010-03-22] foo_silk 4.0.b3          | http://matthijsb.deviantart.com/art/foo-silk-4-0-beta-3-156740820
