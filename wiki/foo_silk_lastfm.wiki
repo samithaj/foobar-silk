@@ -14,13 +14,12 @@
 * TODO
 
 [2010-XX-XX] foo_silk lastfm 2.0      | add: settings are now stored in a file
+                                      | add: built-in update downloader
                                       | *add: tabs
-                                      | *add: options through menu
+                                      | *add: easy access to options
                                       | *add: top albums data
                                       | *add: scrolling through charts/data
                                       | *add: styles
-                                      | *add: automatic updater
-                                      | *add: options to customize what is displayed
                                       | *add: links to lastfm pages
 [2010-11-XX] foo_silk lastfm 1.3      | *add: scrolling horizontal through charts
 [2010-11-05] foo_silk lastfm 1.2      | add: built-in update checker
