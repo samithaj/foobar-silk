@@ -15,6 +15,8 @@
 {{{
 * ToDo
 
+[2010-XX-XX] foo_silk 4.1             | *add: built-in update downloader
+                                      | *update: <...> scripts
 [2010-11-06] foo_silk 4.0             | add: playlist manager tab
                                       | add: foo_silk 4.0 window to check for updates and set username/api key
                                       | update: .nfoo viewer 1.2
