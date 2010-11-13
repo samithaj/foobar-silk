@@ -48,7 +48,7 @@
 [XXXX-XX-XX] foo_silk-lastfm          | http://code.google.com/p/foobar-silk/wiki/foo_silk_lastfm
 }}}
 {{{
-[2010-11-XX] foo_silk-albumart 1.2    | update: AlbumArtDownloaderXUI 0.37
+[2010-11-XX] foo_silk-albumart 1.2    | update: AlbumArtDownloaderXUI 0.37.1
 [2010-11-10] foo_silk-albumart 1.1    | fix: added the autoclose option when downloading with the GUI
 [2010-11-05] foo_silk-albumart 1.0    | note: initial release
 }}}
