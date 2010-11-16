@@ -52,6 +52,7 @@
 [2010-11-16] foo_silk-albumart 1.2    | change: added GoogleImages to results when searching using the GUI
                                       | change: added unknown as cover type when searching using the GUI
                                       | change: removed configure from the menu
+                                      | fix: behavior on playback stop
                                       | fix: improved performance
                                       | fix: automatic download was broken 
                                       | fix: repaint panel after resizing
@@ -60,8 +61,9 @@
 }}}
 {{{
 [2010-11-XX] foo_silk-artistart 1.1   | change: removed configure and properties from the menu
+                                      | fix: behavior on playback stop
                                       | fix: improved performance
-                                      | fix: improved delete all files behavior
+                                      | fix: improved delete file(s) behavior
                                       | fix: automatic download after manually starting/stopping tracks was broken
                                       | fix: repaint panel after resizing
 [2010-11-05] foo_silk-artistart 1.0   | note: initial release
