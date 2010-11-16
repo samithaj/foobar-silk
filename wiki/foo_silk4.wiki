@@ -51,13 +51,18 @@
 [2010-XX-XX] foo_silk-albumart x.x    | *update: AlbumArtDownloaderXUI 0.37.1
 [2010-11-16] foo_silk-albumart 1.2    | change: added GoogleImages to results when searching using the GUI
                                       | change: added unknown as cover type when searching using the GUI
+                                      | change: removed configure from the menu
+                                      | fix: improved performance
                                       | fix: automatic download was broken 
                                       | fix: repaint panel after resizing
 [2010-11-10] foo_silk-albumart 1.1    | fix: added the autoclose option when downloading with the GUI
 [2010-11-05] foo_silk-albumart 1.0    | note: initial release
 }}}
 {{{
-[2010-11-XX] foo_silk-artistart 1.1   | *fix: repaint panel after resizing
+[2010-11-XX] foo_silk-artistart 1.1   | change: removed configure and properties from the menu
+                                      | fix: improved performance
+                                      | fix: automatic download after manually starting/stopping tracks was broken
+                                      | fix: repaint panel after resizing
 [2010-11-05] foo_silk-artistart 1.0   | note: initial release
 }}}
 {{{
