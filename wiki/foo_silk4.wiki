@@ -61,6 +61,7 @@
 {{{
 [2010-11-XX] foo_silk-artistart 1.1   | change: removed configure and properties from the menu
                                       | fix: improved performance
+                                      | fix: improved delete all files behavior
                                       | fix: automatic download after manually starting/stopping tracks was broken
                                       | fix: repaint panel after resizing
 [2010-11-05] foo_silk-artistart 1.0   | note: initial release
