@@ -30,7 +30,7 @@
                                       | update: foo_silk-buttons 1.0
                                       | update: esplaylist v0.1.3.0
                                       | update: foo_uie_wsh_panel_mod 1.3.7
-                                      | change: all files are now stored in folder
+                                      | change: all files are now stored in one folder
                                       | remove: waveform tab
 [2010-07-07] foo_silk 4.0.b4          | add: foo_silk-lastfm 1.0.b1
                                       | fix: when you are not connected to the internet played/unplayed status is now updating
