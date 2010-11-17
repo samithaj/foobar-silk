@@ -49,7 +49,7 @@
 [XXXX-XX-XX] foo_silk-lastfm          | http://code.google.com/p/foobar-silk/wiki/foo_silk_lastfm
 }}}
 {{{
-[2010-11-17] foo_silk-albumart 1.3    | add: delete image item in menu
+[2010-11-XX] foo_silk-albumart 1.3    | add: delete image item in menu
                                       | fix: open/delete menu items are disabled when there is no image or when the image is embedded
                                       | fix: repaint after resizing was broken
 [2010-11-16] foo_silk-albumart 1.2    | change: added GoogleImages to results when searching using the GUI
@@ -63,6 +63,7 @@
 [2010-11-05] foo_silk-albumart 1.0    | note: initial release
 }}}
 {{{
+[2010-11-XX] foo_silk-artistart 1.2   | change: restored properties menu item because of the download limit setting
 [2010-11-16] foo_silk-artistart 1.1   | change: removed configure and properties from the menu
                                       | fix: behavior on playback stop
                                       | fix: improved performance
