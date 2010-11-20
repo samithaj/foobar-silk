@@ -42,12 +42,15 @@
 }}}
 
 == Script Changelogs ==
+====.nfoo Viewer====
 {{{
 [XXXX-XX-XX] .nfoo viewer             | http://code.google.com/p/foobar-silk/wiki/nfoo_viewer
 }}}
+====lastfm====
 {{{
 [XXXX-XX-XX] foo_silk-lastfm          | http://code.google.com/p/foobar-silk/wiki/foo_silk_lastfm
 }}}
+====albumart====
 {{{
 [2010-11-XX] foo_silk-albumart 1.3    | add: delete image item in menu
                                       | fix: open/delete menu items are disabled when there is no image or when the image is embedded
@@ -62,6 +65,7 @@
 [2010-11-10] foo_silk-albumart 1.1    | fix: added the autoclose option when downloading with the GUI
 [2010-11-05] foo_silk-albumart 1.0    | note: initial release
 }}}
+====artistart====
 {{{
 [2010-11-XX] foo_silk-artistart 1.2   | change: restored properties menu item because of the download limit setting
 [2010-11-16] foo_silk-artistart 1.1   | change: removed configure and properties from the menu
@@ -72,16 +76,20 @@
                                       | fix: repaint panel after resizing
 [2010-11-05] foo_silk-artistart 1.0   | note: initial release
 }}}
+====playcount====
 {{{
 [2010-11-07] foo_silk-playcount 1.1   | fix: love button not refreshing after changing love status
 [2010-11-05] foo_silk-playcount 1.0   | note: initial release
 }}}
+====seekbar====
 {{{
 [2010-11-05] foo_silk-seekbar 1.0     | note: initial release
 }}}
+====volume====
 {{{
 [2010-11-05] foo_silk-volume 1.0      | note: initial release
 }}}
+====buttons====
 {{{
 [2010-11-05] foo_silk-buttons 1.0     | note: initial release
 }}}
