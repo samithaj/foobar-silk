@@ -52,7 +52,7 @@
 }}}
 ====albumart====
 {{{
-[2010-11-XX] foo_silk-albumart 1.3    | add: delete image item in menu
+[2010-11-29] foo_silk-albumart 1.3    | add: delete image item in menu
                                       | fix: open/delete menu items are disabled when there is no image or when the image is embedded
                                       | fix: repaint after resizing was broken
 [2010-11-16] foo_silk-albumart 1.2    | change: added GoogleImages to results when searching using the GUI
