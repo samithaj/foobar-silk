@@ -15,7 +15,7 @@
 {{{
 * ToDo
 
-[2010-XX-XX] foo_silk 4.1             | *add: built-in update downloader
+[2011-XX-XX] foo_silk 4.1             | *add: built-in update downloader
                                       | *update: <...> scripts
                                       | *update: AlbumArtDownloaderXUI 0.37.1
 [2010-11-06] foo_silk 4.0             | add: playlist manager tab
@@ -67,7 +67,7 @@
 }}}
 ====artistart====
 {{{
-[2010-11-XX] foo_silk-artistart 1.2   | change: restored properties menu item because of the download limit setting
+[2011-XX-XX] foo_silk-artistart 1.2   | change: restored properties menu item because of the download limit setting
 [2010-11-16] foo_silk-artistart 1.1   | change: removed configure and properties from the menu
                                       | fix: behavior on playback stop
                                       | fix: improved performance
@@ -78,6 +78,7 @@
 }}}
 ====playcount====
 {{{
+[2011-XX-XX] foo_silk-playcount 1.2   | add: option to fix tags based on last.fm auto-correct information
 [2010-11-07] foo_silk-playcount 1.1   | fix: love button not refreshing after changing love status
 [2010-11-05] foo_silk-playcount 1.0   | note: initial release
 }}}
