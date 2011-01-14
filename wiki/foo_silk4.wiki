@@ -52,6 +52,7 @@
 }}}
 ====albumart====
 {{{
+[2011-XX-XX] foo_silk-albumart 1.4    | fix: improved automatic download
 [2010-11-29] foo_silk-albumart 1.3    | add: delete image item in menu
                                       | fix: open/delete menu items are disabled when there is no image or when the image is embedded
                                       | fix: repaint after resizing was broken
