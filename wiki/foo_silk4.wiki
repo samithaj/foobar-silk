@@ -52,8 +52,9 @@
 }}}
 ====albumart====
 {{{
-[2011-XX-XX] foo_silk-albumart 1.4    | fix: improved automatic download results
-                                      | *fix: prevent automatic download when nothing was found during the first try for an album
+[2011-01-20] foo_silk-albumart 1.4    | add: show message when downloading artwork in the background
+                                      | fix: improved automatic download results
+                                      | fix: prevent automatic download when nothing was found during the first try for an album
 [2010-11-29] foo_silk-albumart 1.3    | add: delete image item in menu
                                       | fix: open/delete menu items are disabled when there is no image or when the image is embedded
                                       | fix: repaint after resizing was broken
