@@ -70,8 +70,8 @@
 }}}
 ====artistart====
 {{{
-[2011-XX-XX] foo_silk-artistart 1.2   | change: restored properties menu item because of the download limit setting
-                                      | *fix: prevent multiple download requests
+[2011-01-20] foo_silk-artistart 1.2   | change: restored properties menu item because of the download limit setting
+                                      | fix: prevent multiple download requests
 [2010-11-16] foo_silk-artistart 1.1   | change: removed configure and properties from the menu
                                       | fix: behavior on playback stop
                                       | fix: improved performance
