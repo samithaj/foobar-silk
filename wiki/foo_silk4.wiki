@@ -52,6 +52,7 @@
 }}}
 ====albumart====
 {{{
+[2011-XX-XX] foo_silk-albumart 1.5    | *fix: GUI download does not work when launched after first track of album
 [2011-01-20] foo_silk-albumart 1.4    | add: show message when downloading artwork in the background
                                       | fix: improved automatic download results
                                       | fix: prevent automatic download when nothing was found during the first try for an album
