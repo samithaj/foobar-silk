@@ -97,13 +97,13 @@
 }}}
 ====playcount====
 {{{
-[2011-XX-XX] foo_silk-playcount 1.2   | add: option to fix tags based on last.fm auto-correct information
+[2011-06-XX] foo_silk-playcount 1.2   | add: option to fix tags based on last.fm auto-correct information
 [2010-11-07] foo_silk-playcount 1.1   | fix: love button not refreshing after changing love status
 [2010-11-05] foo_silk-playcount 1.0   | note: initial release
 }}}
 ====seekbar====
 {{{
-[2011-06-XX] foo_silk-seekbar 1.1      | *add: support for global color change
+[2011-06-XX] foo_silk-seekbar 1.1     | *add: support for global color change
 [2010-11-05] foo_silk-seekbar 1.0     | note: initial release
 }}}
 ====volume====
