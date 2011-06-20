@@ -4,6 +4,7 @@
 
 ==== Releases ====
 {{{
+[2011-06-XX] foo_silk 4.1             | TBA
 [2010-11-06] foo_silk 4.0             | http://matthijsb.deviantart.com/art/foo-silk-4-0-185248870
 [2010-07-07] foo_silk 4.0.b4          | http://matthijsb.deviantart.com/art/foo-silk-4-0-beta-4-170546750
 [2010-06-10] foo_silk 4.0.b4.a1       | closed pre-beta
@@ -15,9 +16,19 @@
 {{{
 * ToDo
 
-[2011-XX-XX] foo_silk 4.1             | *add: built-in update downloader
-                                      | *update: <...> scripts
-                                      | *update: AlbumArtDownloaderXUI 0.37.1
+[2011-06-XX] foo_silk 4.1             | *
+                                      | *
+                                      | *
+                                      | *
+                                      | *
+                                      | *add: built-in update downloader
+                                      | add: foo_simplaylist to replace foo_uie_esplaylist
+                                      | add: foo_simplaylist_manager
+                                      | update: foobar v1.1.7
+                                      | update: 	foo_uie_wsh_panel_mod 1.4.3
+                                      | update: foo_facets 1.0 beta 3
+                                      | update: foo_softplaylist 2011-02-05
+                                      | *update: ...
 [2010-11-06] foo_silk 4.0             | add: playlist manager tab
                                       | add: foo_silk 4.0 window to check for updates and set username/api key
                                       | update: .nfoo viewer 1.2
@@ -52,7 +63,8 @@
 }}}
 ====albumart====
 {{{
-[2011-XX-XX] foo_silk-albumart 1.5    | *fix: GUI download does not work when launched after first track of album
+[2011-06-XX] foo_silk-albumart 1.5    | update: AlbumArtDownloaderXUI 0.39.1
+                                      | *fix: GUI download does not work when launched after first track of album             
 [2011-01-20] foo_silk-albumart 1.4    | add: show message when downloading artwork in the background
                                       | fix: improved automatic download results
                                       | fix: prevent automatic download when nothing was found during the first try for an album
