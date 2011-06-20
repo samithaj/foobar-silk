@@ -25,7 +25,7 @@
                                       | add: foo_simplaylist to replace foo_uie_esplaylist
                                       | add: foo_simplaylist_manager
                                       | update: foobar v1.1.7
-                                      | update: 	foo_uie_wsh_panel_mod 1.4.3
+                                      | update: foo_uie_wsh_panel_mod 1.4.3
                                       | update: foo_facets 1.0 beta 3
                                       | update: foo_softplaylist 2011-02-05
                                       | *update: ...
